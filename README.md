@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-<p align="center"><strong>TECHNOLOGY STACK 🐱‍👓</strong></p>
+<h1 align="center"><strong>TECHNOLOGY STACK 🐱‍👓</strong></h1>
 
 
 ---

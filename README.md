@@ -22,8 +22,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhducc2003&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minhducc2003&theme=radical)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhducc2003&show_icons=true&theme=radical)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=minhducc2003&theme=radical)](https://git.io/streak-stats)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhducc2003&layout=compact&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=minhducc2003)

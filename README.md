@@ -18,8 +18,6 @@
 <br>
 <br>
 <p align="center"><strong>TECHNOLOGY STACK 🐱‍👓</strong></p>
-
-
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhducc2003&show_icons=true&theme=radical)

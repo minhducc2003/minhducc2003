@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">Hi there 🖐</p>
-<p align="center">I'm a 3rd year student pursuing Master's in Computer Application ❤ from University of Natural Resources and Environment Ha Noi</p>
+<p align="center">I'm a 3rd year student pursuing information technology Application ❤ from University of Natural Resources and Environment Ha Noi</p>
 <br>
 <br>
 <br>
